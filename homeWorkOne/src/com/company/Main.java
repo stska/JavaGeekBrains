@@ -2,7 +2,6 @@ package com.company;
 import java.util.Scanner;
 
 public class Main {
-
     // 1. Создать пустой проект в IntelliJ IDEA и прописать метод main()
     public static void main(String[] args){
         //  2.Создать переменные всех пройденных типов данных и инициализировать их значения.
@@ -22,6 +21,7 @@ public class Main {
 
         checkLeapYear();
     }
+
 // 3. Написать метод вычисляющий выражение a * (b + (c / d)) и возвращающий результат,
 //где a, b, c, d – аргументы этого метода, имеющие тип float.
     public static float checkInRange(float a, float b, float c, float d) {
