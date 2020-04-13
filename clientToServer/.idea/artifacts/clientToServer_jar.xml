@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="clientToServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/clientToServer_jar</output-path>
+    <root id="archive" name="clientToServer.jar">
+      <element id="module-output" name="clientToServer" />
+    </root>
+  </artifact>
+</component>
