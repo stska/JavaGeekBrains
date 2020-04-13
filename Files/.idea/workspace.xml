@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+<<<<<<< Updated upstream:Files/.idea/workspace.xml
+    <list default="true" id="57a29d61-3951-4b45-93d1-139b9cb8f8ee" name="Default Changelist" comment="" />
+=======
+<<<<<<< Updated upstream
+    <list default="true" id="9484b2c9-1905-4768-acb8-a0947801f2f5" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="009cf6d3-fc4a-41cc-b24d-f9ed0b29fae6" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes:homework_Class/.idea/workspace.xml
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+<<<<<<< Updated upstream
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+<<<<<<< Updated upstream:Files/.idea/workspace.xml
+  <component name="ProjectId" id="1ZPTI5RZtqbvYaAELHgtofyJf0D" />
+=======
+  <component name="ProjectId" id="1ZAKYb6uPtruoboTuFm94VPFua3" />
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZaXmupV3nCqQ2qZBCy5eKZ4zPF" />
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes:homework_Class/.idea/workspace.xml
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+<<<<<<< Updated upstream:Files/.idea/workspace.xml
+      <module name="Files" />
+=======
+<<<<<<< Updated upstream
+      <module name="homework_Class" />
+=======
+      <module name="untitled" />
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes:homework_Class/.idea/workspace.xml
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream:Files/.idea/workspace.xml
+      <changelist id="57a29d61-3951-4b45-93d1-139b9cb8f8ee" name="Default Changelist" comment="" />
+      <created>1584739646910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584739646910</updated>
+      <workItem from="1584739649696" duration="1463000" />
+      <workItem from="1584882120830" duration="8949000" />
+=======
+<<<<<<< Updated upstream
+      <changelist id="9484b2c9-1905-4768-acb8-a0947801f2f5" name="Default Changelist" comment="" />
+      <created>1584276506274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+<<<<<<<< Updated upstream:homework_Class/.idea/workspace.xml
+      <updated>1584276506274</updated>
+      <workItem from="1584276509834" duration="21962000" />
+      <workItem from="1584385850235" duration="842000" />
+========
+      <updated>1584739646910</updated>
+      <workItem from="1584739649696" duration="1463000" />
+      <workItem from="1584882120830" duration="8949000" />
+      <workItem from="1585077995401" duration="347000" />
+>>>>>>>> Stashed changes:Files/.idea/workspace.xml
+=======
+      <changelist id="009cf6d3-fc4a-41cc-b24d-f9ed0b29fae6" name="Default Changelist" comment="" />
+      <created>1585078340100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585078340100</updated>
+      <workItem from="1585078343410" duration="2954000" />
+      <workItem from="1585158016465" duration="14250000" />
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes:homework_Class/.idea/workspace.xml
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

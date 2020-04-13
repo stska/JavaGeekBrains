@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WisherServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WisherServer_jar</output-path>
+    <root id="archive" name="WisherServer.jar">
+      <element id="module-output" name="WisherServer" />
+    </root>
+  </artifact>
+</component>
