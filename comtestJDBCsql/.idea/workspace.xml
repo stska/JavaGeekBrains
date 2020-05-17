@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80fe4b0d-d033-40ef-8a20-05486842e47a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../JavaCoreAdvancedHomeWork_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCoreAdvancedHomeWork_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestChatFx/chat_java2-master/chat-client/src/main/java/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestChatFx/chat_java2-master/chat-client/src/main/java/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestChatFx/chat_java2-master/chat-client/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestChatFx/chat_java2-master/chat-client/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestChatFx/chat_java2-master/chat-client/src/main/resources/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestChatFx/chat_java2-master/chat-client/src/main/resources/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestChatFx/chat_java2-master/chat-server/src/main/java/ClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestChatFx/chat_java2-master/chat-server/src/main/java/ClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestChatFx/chat_java2-master/chat-server/src/main/java/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestChatFx/chat_java2-master/chat-server/src/main/java/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestChatFx/chat_java2-master/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestChatFx/chat_java2-master/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WisherServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WisherServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WishesServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WishesServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clientToServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clientToServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clientToServer/out/artifacts/clientToServer_jar/clientToServer.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../clientToServer/out/artifacts/clientToServer_jar/clientToServer.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clientToServer/out/production/clientToServer/com/company/WishesClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clientToServer/src/com/company/WishesClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aDQKnqTTS0CQDyLhutGmj6je6z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.34827587" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testJDBCdatabase.Main" />
+      <module name="comtestJDBCsql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testJDBCdatabase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80fe4b0d-d033-40ef-8a20-05486842e47a" name="Default Changelist" comment="" />
+      <created>1586267622401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586267622401</updated>
+      <workItem from="1586267625108" duration="3342000" />
+      <workItem from="1586342649736" duration="6981000" />
+      <workItem from="1586357629752" duration="96000" />
+      <workItem from="1586515844762" duration="2433000" />
+      <workItem from="1586693793689" duration="600000" />
+      <workItem from="1586703078607" duration="634000" />
+      <workItem from="1589478688145" duration="848000" />
+      <workItem from="1589630178822" duration="3602000" />
+      <workItem from="1589738448536" duration="358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

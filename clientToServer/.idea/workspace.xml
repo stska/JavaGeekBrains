@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcf0336d-70b7-45aa-b704-febe1ad56577" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/client/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/ClientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/desctopChat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/out/production/desctopChat/resources/ma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/out/production/desctopChat/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/out/production/desctopChat/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/out/production/desctopChat/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/src/resources/ma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syn/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCoreAdvancedHomeWork_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCoreAdvancedHomeWork_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WisherServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WisherServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WishesServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WishesServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/clientToServer_jar/clientToServer.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/clientToServer_jar/clientToServer.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/clientToServer/com/company/WishesClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/WishesClient.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aRgExEORo7qtvlFdBpqZj4oDzO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WishesServer" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.34827587" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.ChatServer" />
+      <module name="clientToServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.Client" />
+      <module name="clientToServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.ClientThread" />
+      <module name="clientToServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.WishesClient" />
+      <module name="clientToServer" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.ChatServer" />
+        <item itemvalue="Application.ClientThread" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcf0336d-70b7-45aa-b704-febe1ad56577" name="Default Changelist" comment="" />
+      <created>1586703712323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586703712323</updated>
+      <workItem from="1586703715142" duration="4826000" />
+      <workItem from="1588424947505" duration="23802000" />
+      <workItem from="1588508439650" duration="2860000" />
+      <workItem from="1588511769555" duration="120000" />
+      <workItem from="1588511905087" duration="5063000" />
+      <workItem from="1588521975117" duration="10950000" />
+      <workItem from="1588538140507" duration="47000" />
+      <workItem from="1588538226731" duration="2883000" />
+      <workItem from="1588588494604" duration="2616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/clientToServer$Client.ic" NAME="Client Coverage Results" MODIFIED="1588445348762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>client.*</FILTER>
+    </SUITE>
+  </component>
+</project>

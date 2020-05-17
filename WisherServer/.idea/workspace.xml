@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73d7ae67-4617-4a8f-a889-edb10d13c936" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../desctopChat/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/desctopChat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/out/production/desctopChat/resources/ma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/out/production/desctopChat/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/out/production/desctopChat/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/out/production/desctopChat/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/src/resources/ma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desctopChat/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syn/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCoreAdvancedHomeWork_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCoreAdvancedHomeWork_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WishesServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WishesServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clientToServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clientToServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clientToServer/src/com/company/WishesClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clientToServer/src/com/company/WishesClient.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aRmhkouNZheh8NDYK8bHaOwgsd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.34827587" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="WisherServer" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73d7ae67-4617-4a8f-a889-edb10d13c936" name="Default Changelist" comment="" />
+      <created>1586706901272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586706901272</updated>
+      <workItem from="1586706903736" duration="1808000" />
+      <workItem from="1586776867500" duration="641000" />
+      <workItem from="1588426050428" duration="644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
