@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="478.0" prefWidth="659.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="PrivateMessageController">
+   <children>
+      <TitledPane animated="false" prefHeight="478.0" prefWidth="659.0" text="Private message">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" style="-fx-background-color: #4d2d12;">
+               <children>
+                  <TextField fx:id="privateField" alignment="TOP_LEFT" layoutX="101.0" layoutY="105.0" prefHeight="242.0" prefWidth="456.0" promptText="Введите сообщение" />
+                  <Button fx:id="privateSendBtn" layoutX="286.0" layoutY="378.0" mnemonicParsing="false" onAction="#privateSendAction" prefHeight="39.0" prefWidth="85.0" text="Send">
+                     <font>
+                        <Font size="18.0" />
+                     </font></Button>
+                  <Label fx:id="toUser" layoutX="288.0" layoutY="38.0" prefHeight="38.0" prefWidth="122.0" text="to user" textFill="WHITE">
+                     <font>
+                        <Font name="Arial" size="25.0" />
+                     </font>
+                  </Label>
+               </children>
+            </AnchorPane>
+        </content>
+      </TitledPane>
+   </children>
+</AnchorPane>
