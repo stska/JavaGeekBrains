@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9dade3e-0958-43c0-bce9-14d34587ad1a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../JavaCoreAdvancedHomeWork_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaCoreAdvancedHomeWork_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-client/src/main/java/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/chat-client/src/main/java/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-client/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/chat-client/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-client/src/main/resources/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/chat-client/src/main/resources/sample.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-server/src/main/java/ClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/chat-server/src/main/java/ClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat-server/src/main/java/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/chat-server/src/main/java/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WisherServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WisherServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WishesServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WishesServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientToServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../clientToServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientToServer/out/artifacts/clientToServer_jar/clientToServer.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../clientToServer/out/artifacts/clientToServer_jar/clientToServer.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientToServer/out/production/clientToServer/com/company/WishesClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientToServer/src/com/company/WishesClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comtestJDBCsql/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../comtestJDBCsql/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="CoreJavaAdvanced" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bSGkI71Hrv0199MYrbDhadDMug" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javafx-sdk-14.0.1/lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Repositories\GitHub\JavaHomeWork\JavaGeekBrains\TestChatFx\chat_java2-master\chat-client\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="chat-client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="chat-client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="chat-client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="chat-client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="chat-server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9dade3e-0958-43c0-bce9-14d34587ad1a" name="Default Changelist" comment="" />
+      <created>1588618222978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588618222978</updated>
+      <workItem from="1588618225850" duration="3382000" />
+      <workItem from="1588694610030" duration="652000" />
+      <workItem from="1588763006805" duration="12381000" />
+      <workItem from="1588796075865" duration="2876000" />
+      <workItem from="1588798971492" duration="1112000" />
+      <workItem from="1588800110401" duration="101000" />
+      <workItem from="1588800263534" duration="609000" />
+      <workItem from="1588800909054" duration="976000" />
+      <workItem from="1588801902904" duration="207000" />
+      <workItem from="1588802160183" duration="8112000" />
+      <workItem from="1588846260068" duration="16428000" />
+      <workItem from="1588894720544" duration="156000" />
+      <workItem from="1588894889427" duration="28000" />
+      <workItem from="1588894935579" duration="1173000" />
+      <workItem from="1588938911404" duration="968000" />
+      <workItem from="1588944121474" duration="3322000" />
+      <workItem from="1588976492014" duration="2749000" />
+      <workItem from="1589019022029" duration="5428000" />
+      <workItem from="1589045864600" duration="9320000" />
+      <workItem from="1589067650143" duration="2557000" />
+      <workItem from="1589070521383" duration="1084000" />
+      <workItem from="1589107726346" duration="1841000" />
+      <workItem from="1589126944099" duration="7272000" />
+      <workItem from="1589135967929" duration="321000" />
+      <workItem from="1589150176905" duration="6287000" />
+      <workItem from="1589186886719" duration="429000" />
+      <workItem from="1589239923564" duration="1087000" />
+      <workItem from="1589292571426" duration="4024000" />
+      <workItem from="1589304797271" duration="113000" />
+      <workItem from="1589630330114" duration="16934000" />
+      <workItem from="1589718221692" duration="11793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-client/src/main/java/Controller.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-server/src/main/java/ClientHandler.java</url>
+          <line>167</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-server/src/main/java/ClientHandler.java</url>
+          <line>168</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-server/src/main/java/ClientHandler.java</url>
+          <line>186</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-server/src/main/java/ClientHandler.java</url>
+          <line>187</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-server/src/main/java/ClientHandler.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-server/src/main/java/ClientHandler.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-server/src/main/java/ClientHandler.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-server/src/main/java/ClientHandler.java</url>
+          <line>175</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-server/src/main/java/ClientHandler.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-server/src/main/java/ClientHandler.java</url>
+          <line>172</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-server/src/main/java/ClientHandler.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-server/src/main/java/ClientHandler.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-server/src/main/java/ClientHandler.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-client/src/main/java/Controller.java</url>
+          <line>181</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-client/src/main/java/Controller.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-client/src/main/java/Controller.java</url>
+          <line>182</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-client/src/main/java/Controller.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-client/src/main/java/Controller.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-client/src/main/java/Controller.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chat-client/src/main/java/Controller.java</url>
+          <line>164</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
