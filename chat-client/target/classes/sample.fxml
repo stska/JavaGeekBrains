@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+
+<!---->
+
+<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller">
+    <columnConstraints>
+        <ColumnConstraints />
+    </columnConstraints>
+    <rowConstraints>
+        <RowConstraints />
+    </rowConstraints>
+    <children>
+        <AnchorPane prefHeight="640.0" prefWidth="820.0" style="-fx-background-color: #ffffff;">
+            <children>
+                <Pane prefHeight="640.0" prefWidth="107.0" style="-fx-background-color: #593616; -fx-background-radius: 0;">
+                    <children>
+                        <ImageView fitHeight="52.0" fitWidth="57.0" layoutX="32.0" layoutY="22.0" pickOnBounds="true" preserveRatio="true">
+                            <image>
+                                <Image url="@ma.png" />
+                            </image></ImageView>
+                        <Separator layoutX="11.0" layoutY="165.0" prefHeight="3.0" prefWidth="86.0" />
+                        <Label fx:id="userNickLabel" alignment="TOP_CENTER" contentDisplay="CENTER" layoutX="38.0" layoutY="85.0" onMousePressed="#changeNickName" text="You" textAlignment="CENTER" textFill="WHITE">
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                     <effect>
+                        <Lighting>
+                           <bumpInput>
+                              <Shadow />
+                           </bumpInput>
+                           <light>
+                              <Light.Distant />
+                           </light>
+                        </Lighting>
+                     </effect></Label>
+                        <Label layoutX="39.0" layoutY="184.0" text="Friends" textFill="WHITE">
+                     <effect>
+                        <Blend />
+                     </effect></Label>
+                        <Label fx:id="log" contentDisplay="CENTER" layoutX="33.0" layoutY="121.0" onMouseClicked="#logClicked" text="Log Out" textFill="WHITE">
+                     <effect>
+                        <Glow />
+                     </effect>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor></Label>
+                  <ListView fx:id="usersList" layoutX="4.0" layoutY="214.0" onMouseClicked="#usersListClick" prefHeight="173.0" prefWidth="99.0" style="-fx-background-color: #f2dac4;" />
+                    </children>
+                </Pane>
+                <Button fx:id="sendButton" layoutX="740.0" layoutY="596.0" mnemonicParsing="false" onAction="#sendButton" text="Send">
+                    <effect>
+                        <Glow />
+                    </effect></Button>
+                <TextField id="userTextField" fx:id="userChatField" layoutX="123.0" layoutY="596.0" prefHeight="25.0" prefWidth="608.0" style="-fx-background-color: #bfd5ff;" />
+                <ScrollPane fx:id="mainScrollChatField" fitToWidth="true" hbarPolicy="NEVER" layoutX="124.0" layoutY="16.0" maxWidth="-Infinity" minWidth="-Infinity" prefHeight="565.0" prefWidth="659.0">
+                    <content>
+                        <VBox fx:id="vBox" alignment="BASELINE_CENTER" prefHeight="563.0" prefWidth="644.0" style="-fx-background-color: #f2dac4;">
+                            <padding>
+                                <Insets bottom="20.0" />
+                            </padding></VBox>
+                    </content></ScrollPane>
+            </children>
+        </AnchorPane>
+    </children>
+</GridPane>
